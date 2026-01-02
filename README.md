@@ -1,15 +1,18 @@
-# Web Hacking Lab
+# Web Hacking Lab 🛡️
 
-This repository contains my personal notes while learning
-web penetration testing using vulnerable applications.
+A personal learning repository focused on **web penetration testing**
+using intentionally vulnerable applications.
 
-## Main Target
-- Damn Vulnerable Web Application (DVWA)
+## 🎯 Objectives
+- Understand common web vulnerabilities
+- Practice ethical hacking techniques
+- Build a cybersecurity learning portfolio
 
-## Goals
-- Understand web vulnerabilities
-- Practice ethical hacking
-- Build cybersecurity portfolio
+## 🧪 Lab Environment
+- OS: Kali Linux
+- Web Server: Apache
+- Database: MariaDB
+- Language: PHP
+- Target App: DVWA
 
-## Disclaimer
-For educational purposes only.
+## 📂 Repository Structure
