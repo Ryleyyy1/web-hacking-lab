@@ -1,4 +1,4 @@
-# DVWA Notes
 
-This folder contains notes and labs related to
-Damn Vulnerable Web Application (DVWA).
+## ⚠️ Disclaimer
+This repository is created for **educational purposes only**.
+All testing is performed on vulnerable lab environments.
