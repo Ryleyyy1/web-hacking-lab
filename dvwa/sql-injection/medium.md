@@ -19,7 +19,9 @@ Parameter:
 ```sql
 1 OR 1=1
 
-#Why This Works
+---
+
+Why This Works
 
 The application blocks quotes (') but does not block
 logical operators.
